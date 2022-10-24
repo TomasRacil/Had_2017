@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Had_2017", "Had_2017\Had_2017.vcxproj", "{8840B035-7FE1-4DB0-9E9B-EB141DD12F8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8840B035-7FE1-4DB0-9E9B-EB141DD12F8F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8840B035-7FE1-4DB0-9E9B-EB141DD12F8F}.Debug|Win32.Build.0 = Debug|Win32
+		{8840B035-7FE1-4DB0-9E9B-EB141DD12F8F}.Release|Win32.ActiveCfg = Release|Win32
+		{8840B035-7FE1-4DB0-9E9B-EB141DD12F8F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93C4A779-24A8-4D15-8F47-DB5E590B3772}
+	EndGlobalSection
+EndGlobal
